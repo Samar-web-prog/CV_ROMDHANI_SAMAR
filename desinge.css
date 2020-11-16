@@ -40,6 +40,9 @@ h6{
 
 
 }
+h7{
+
+}
 p{
 text-align: center;
 font-size:25px;
@@ -56,11 +59,11 @@ a{
 	text-decoration: none;
 }
 ul{
-	margin-left: 50px;
+	margin-left: 85px;
 }
 li{
 	
-	margin-left: 25px;
+	margin-left: 65px;
 	color: white;
 	display:inline;
 }
@@ -73,6 +76,15 @@ li{
 	width:800;
 	margin-bottom:0px;
 	
+}
+.mapage1{
+	background-color:#015761;
+	margin-top: auto;
+	height:160px;
+	margin-left: 0%
+	width:800;
+	margin-bottom:0px;
+
 }
 
 .clearfix {
@@ -89,4 +101,10 @@ li{
 	margin-top: 0px;
 	height:500px;
 	margin-left: 0%
+}
+.Projets{
+	margin-left: 1100px;
+	color:#F7DC4F;
+	font-size:48px;
+	font-family: "Britannic Bold";
 }

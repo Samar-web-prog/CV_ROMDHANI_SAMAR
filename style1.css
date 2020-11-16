@@ -1,0 +1,109 @@
+body{
+    background-color: lightgrey;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+p{
+    font-size:25px;
+    font-family:fangsong;
+}
+
+a:hover{
+    color: #F7DC4F;
+
+
+}
+h1{
+    color:white;
+    font-size:21px;
+    margin-left: 60px;
+
+}
+h2{  font-size: 48px;
+    margin-left: 85px;
+    color:#015761;
+}
+
+h3{
+    margin-left: 45px;
+    font-size: 30px;
+    color:#F7DC4F;
+    size:30%;
+}
+h4{
+    font-size:80px;
+    color:#015761;
+    margin-left: 650px;
+
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+ul{
+    margin-left: 85px;
+}
+li{
+
+    margin-left: 65px;
+    color: white;
+    display:inline;
+}
+.mapage1{
+    background-color:#015761;
+    margin-top: auto;
+    height:160px;
+    margin-left: 0%;
+    width:100%;
+    margin-bottom:0px;
+
+}
+.mapage2{
+    margin-left: 600px;
+}
+.Ai{
+    background-color: #F1F0F0;
+    height: 400px;
+    margin-left:30px;
+    margin-right: 30px;
+    border-radius: 10px;
+}
+.Ai1{
+    background-color: #F1F0F0;
+    height: 800px;
+    margin-left:30px;
+    margin-right: 30px;
+    border-radius: 10px;
+}
+
+.clearfix {
+    overflow:all;
+    margin-left: auto;
+}
+.img1{
+    float: left;
+    margin-right: 35px;
+    margin-left:20px;
+
+}
+
+.img2 {
+    float: right;
+    margin-right: 10px;
+}
+.profile{
+    margin-top: 0px;
+    height:500px;
+    margin-left: 0%
+}
+.Projets{
+    margin-left: 1100px;
+    color:#F7DC4F;
+    font-size:48px;
+    font-family: "Britannic Bold";
+}
+cert{
+    margin-left: 50px;
+}
